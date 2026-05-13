@@ -1,41 +1,30 @@
-# 📊 Sales Performance Analysis Portfolio Project
+# 📊 Global Sales Performance Analysis (Excel Project)
 
 ## 📝 Project Overview
-This project involves a comprehensive analysis of sales data to uncover key business insights, regional performance trends, and product line efficiency. Using a dataset containing over 2,800 transactions, I performed data cleaning, transformation, and visualization to help stakeholders make data-driven decisions.
+This project involves a comprehensive diagnostic analysis of a global sales dataset using **Microsoft Excel**. The goal was to transform over 2,800 raw transactions into a structured business intelligence tool to uncover revenue drivers, regional performance, and seasonal trends.
 
-## 🛠️ Tech Stack Used
-- **Excel:** Initial data exploration, Pivot Tables, and Dashboard design.
-- **SQL:** Complex querying for Year-over-Year (YoY) growth and regional breakdowns.
-- **Python:** Advanced data visualization and correlation analysis.
-- **Power BI:** Interactive dashboard for real-time sales monitoring.
+## 🛠️ Tools & Techniques
+- **Microsoft Excel:** Data Cleaning, Pivot Tables, and Dashboard Design.
+- **Data Cleaning:** Handled missing values (State/Territory) and standardized Date formats.
+- **Analysis:** Used Advanced Pivot Tables to segment $8.29M in total revenue.
 
-## 📂 Dataset Description
-The dataset used is `sales_data_sample.csv`, which includes:
-- **Order Details:** Order Number, Quantity, Price, and Status.
-- **Time Dimensions:** Order Date, Month, Quarter, and Year.
-- **Product Information:** Product Line (Classic Cars, Motorcycles, etc.) and MSRP.
-- **Geographic Data:** City, State, Country, and Territory (EMEA, APAC, NA).
+## 🚀 Key Insights
+- **Top Product Line:** 'Classic Cars' emerged as the primary revenue driver, contributing **$2.96M**.
+- **Regional Lead:** The **EMEA** territory recorded the highest sales volume globally.
+- **Deal Segmentation:** Medium-sized deals accounted for the bulk of the revenue (**$4.9M**).
+- **Seasonality:** Identified a significant sales peak every **November**, highlighting clear seasonal trends.
 
-## 🚀 Key Insights & Features
-- **Total Revenue Analysis:** Achieved a total global revenue of approximately **$8.29M**.
-- **Product Performance:** Identified 'Classic Cars' as the top-performing product line, contributing nearly **$2.96M** in sales.
-- **Regional Dominance:** The **EMEA** territory leads in sales volume, followed by North America (NA).
-- **Growth Metrics:** Calculated Month-over-Month (MoM) growth and identified peak sales periods (Q4 consistently shows higher volume).
-- **Customer Segmentation:** Classified deals into Small, Medium, and Large categories to understand purchasing patterns.
+## 📊 Dashboard Features
+The Excel Dashboard includes:
+- **KPI Cards:** Real-time tracking of Total Sales ($8.29M), Average Order Value ($2,936), and Total Quantity (99,067).
+- **Product Comparison:** Visual breakdown of performance across 7 product categories.
+- **Monthly Trends:** A line chart showing revenue fluctuations from 2003 to 2005.
+- **Geographic Ranking:** Insights into top-performing countries like USA, Spain, and France.
 
-## 📊 Visualizations
-### 1. Revenue by Product Line
-A bar chart showcasing which categories drive the most value.
-### 2. Monthly Sales Trend
-A line graph tracking revenue fluctuations across 2003-2005.
-### 3. Geographical Distribution
-A map-based view showing top-contributing countries like USA, Spain, and France.
-
-## 💻 How to Use
-1. **SQL Queries:** Check the `/sql` folder for scripts used to calculate cumulative totals and rankings.
-2. **Python Notebook:** Open the `.ipynb` file to see the correlation heatmap and distribution plots.
-3. **Power BI Dashboard:** Download the `.pbix` file to interact with the live filters.
+## 📂 Project Structure
+- `sales_data_sample.xlsx`: The main Excel file containing Raw Data, Pivot Calculations, and the Final Dashboard.
+- `Project_Description.txt`: A brief summary of the analytical approach.
 
 ## 🤝 Contact
-**Sanskriti Patil** [LinkedIn Profile Link] | [Email Address]  
-*Currently transitioning into Data Analytics | B.Com Taxation graduate.*
+**Sanskriti Patil** [Insert LinkedIn Link] | [Insert Email]  
+*B.Com Taxation Graduate | Aspiring Data Analyst*
