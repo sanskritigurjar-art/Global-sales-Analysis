@@ -26,5 +26,5 @@ The Excel Dashboard includes:
 - `Project_Description.txt`: A brief summary of the analytical approach.
 
 ## 🤝 Contact
-**Sanskriti Patil** [Insert LinkedIn Link] | [Insert Email]  
+**Sanskriti Patil** https://www.linkedin.com/in/sanskriti-patil-a0673337b/ | Sanskritigurjar@gmail.com  
 *B.Com Taxation Graduate | Aspiring Data Analyst*
